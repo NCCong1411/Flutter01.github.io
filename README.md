@@ -1,16 +1,33 @@
-# note_app
+# Hướng dẫn cài đặt và chạy ứng dụng note_app
 
-A new Flutter project.
+## Giới thiệu
+File README này cung cấp hướng dẫn cài đặt và chạy ứng dụng note_app, được phát triển bằng ngôn ngữ Dart và Flutter, và được chạy trong môi trường VSCode.
 
-## Getting Started
+## Yêu cầu
+Trước khi bắt đầu, đảm bảo rằng máy tính của bạn đã cài đặt các yêu cầu sau:
+- Flutter SDK: [Tải Flutter](https://flutter.dev/docs/get-started/install)
+- Visual Studio Code (VSCode): [Tải VSCode](https://code.visualstudio.com/)
+- Dart và Flutter Extension cho VSCode: Bạn có thể cài đặt các extension này trực tiếp từ VSCode Marketplace.
 
-This project is a starting point for a Flutter application.
+## Cài đặt
+1. **Clone Repository**: Sao chép repository note_app về máy tính của bạn bằng cách sử dụng lệnh sau trong terminal:
+   ```sh
+   git clone https://github.com/yourusername/note_app.git
+Thay thế "yourusername" bằng tên người dùng GitHub của bạn.
 
-A few resources to get you started if this is your first Flutter project:
+## Chạy ứng dụng
+Sau khi mở project trong VSCode, bạn có thể chạy ứng dụng bằng cách thực hiện các bước sau:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Mở terminal trong VSCode bằng cách nhấn tổ hợp phím `Ctrl + ``.
+Chạy lệnh sau ở terminal ứng dụng note_app để cập nhật dependencies:
++ flutter pub get
++ flutter run
+  
+## Hỗ trợ
+Nếu bạn gặp bất kỳ vấn đề nào trong quá trình cài đặt hoặc chạy ứng dụng, hãy liên hệ với chúng tôi qua chính tài khoản github.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Đóng góp
+Nếu bạn muốn đóng góp vào dự án, hãy tạo một pull request và chúng tôi sẽ xem xét nó.
+
+## Đảm bảo thay thế "yourusername" bằng tên người dùng GitHub của bạn trong đường dẫn git clone. Đồng thời, cung cấp các hướng dẫn cài đặt và chạy cụ thể cho môi trường Dart/Flutter và VSCode.
+

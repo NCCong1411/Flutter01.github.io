@@ -29,5 +29,5 @@ Nếu bạn gặp bất kỳ vấn đề nào trong quá trình cài đặt ho�
 ## Đóng góp
 Nếu bạn muốn đóng góp vào dự án, hãy tạo một pull request và chúng tôi sẽ xem xét nó.
 
-## Đảm bảo thay thế "yourusername" bằng tên người dùng GitHub của bạn trong đường dẫn git clone. Đồng thời, cung cấp các hướng dẫn cài đặt và chạy cụ thể cho môi trường Dart/Flutter và VSCode.
+#Đảm bảo thay thế "yourusername" bằng tên người dùng GitHub của bạn trong đường dẫn git clone. Đồng thời, cung cấp các hướng dẫn cài đặt và chạy cụ thể cho môi trường Dart/Flutter và VSCode.
 
